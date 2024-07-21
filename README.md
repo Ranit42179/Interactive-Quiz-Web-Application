@@ -24,6 +24,9 @@ A web-based quiz application that tests your knowledge and skills.
 - Frontend: HTML, CSS
 - Backend: JavaScript
 
+*Website Link*
+
+ https://ranit-interactive-quiz.netlify.app
 
 *Author*
 
